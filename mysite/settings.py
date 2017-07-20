@@ -25,7 +25,7 @@ SECRET_KEY = '$ezyf^+xkx1_8qeyw1_xocdyok83l=jn5p8#7lkt-rbe7k-&#0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Soul4legend.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'soul4legend.pythonanywhere.com']
 
 
 # Application definition
